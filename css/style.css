@@ -243,8 +243,16 @@ background: #EEFFF5;
     margin-left: 80px;
 }
 
+#awesomeui{
+    margin-top: 8px;
+}
+
+#awesomeux{
+    margin-top: 8px;
+}
+
 #namefrontend{
-    /* margin-top: 8px; */
+    margin-top: 8px;
     margin-left: 10px;
     margin-right: -20px;
 }
